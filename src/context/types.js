@@ -1,0 +1,11 @@
+export const FETCH_USERS = "FETCH_USERS";
+export const FETCH_USER = "FETCH_USER";
+export const REMOVE_USER = "REMOVE_USER";
+export const DELETE_USER = "DELETE_USER";
+export const UPDATE_ROWS = "UPDATE_ROWS";
+export const SORT_ASC_NAME = "SORT_ASC_NAME";
+export const SORT_ASC_EMAIL = "SORT_ASC_EMAIL";
+export const SORT_DSC_NAME = "SORT_DSC_NAME";
+export const SORT_DSC_EMAIL = "SORT_DSC_EMAIL";
+export const SORT_NONE_NAME = "SORT_NONE_NAME";
+export const SORT_NONE_EMAIL = "SORT_NONE_EMAIL";
